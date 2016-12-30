@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = "Start Bootstrap Freelancer theme adapted for Ruby on Rails."
   s.license     = "MIT"
 
-  s.files = Dir["{app,config,db,lib,vendor}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
+  s.files = Dir["{app,config,db,lib,vendor}/**/*", "MIT-LICENSE", "Rakefile", "README.md", "VERSIONS.md"]
 
   s.add_dependency "rails", "~> 5.0", ">= 5.0.1"
 
