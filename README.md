@@ -22,7 +22,7 @@ Add this line to your application's Gemfile:
 
 ```ruby
 # PrettyDocs Rails
-gem 'freelancer_rails', '~> 1.0', '>= 1.0.1'
+gem 'freelancer_rails', '~> 1.0'
 ```
 
 ## Usage
