@@ -1,0 +1,3 @@
+module FreelancerRails
+  # Your code goes here...
+end
