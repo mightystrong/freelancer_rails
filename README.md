@@ -21,7 +21,7 @@ How to use my plugin.
 Add this line to your application's Gemfile:
 
 ```ruby
-# PrettyDocs Rails
+# Freelancer Rails
 gem 'freelancer_rails', '~> 1.0'
 ```
 
