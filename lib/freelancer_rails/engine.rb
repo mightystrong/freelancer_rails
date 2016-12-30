@@ -7,7 +7,7 @@ module FreelancerRails
         app.config.assets.paths << root.join('vendor', 'assets', s).to_s
       end
 
-      # app.config.assets.precompile += %w( portfolio/**/*.jpg)
+      app.config.assets.precompile += %w( portfolio/*.png portfolio/**/*.png)
     end
   end
 end
