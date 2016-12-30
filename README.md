@@ -72,7 +72,7 @@ You can download and view Freelancer [here](https://startbootstrap.com/template-
 * [Michael Price](http://twitter.com/michaeljprice)
 
 ## License
-[Freelancer](https://startbootstrap.com/template-overviews/freelancer/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Freelancer](https://startbootstrap.com/template-overviews/freelancer/) is a one page [Bootstrap](http://getbootstrap.com/) portfolio theme for freelancers created by [Start Bootstrap](http://startbootstrap.com/).
 
 Freelancer Rails was adapted by [Michael Price](http://twitter.com/michaeljprice) for
 Ruby on Rails.
