@@ -1,4 +1,5 @@
+//= require jquery.easing
 //= require bootstrap-sprockets
-//= require contact_me
 //= require jqBootstrapValidation
+//= require contact_me
 //= require freelancer

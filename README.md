@@ -68,7 +68,7 @@ $ rails c
 
 You can download and view Freelancer [here](https://startbootstrap.com/template-overviews/freelancer/).
 
-NOTE: `contact_mail.php` is not included and therefore the form will not work as shown in the original demo of the application. Adapt the mail form as needed for a rails application.
+NOTE: `contact_mail.php` is not included and therefore the contact form will not work as shown in the original demo of the application. Adapt the mail form as needed for a rails application.
 
 ## Contributing
 * [Michael Price](http://twitter.com/michaeljprice)
